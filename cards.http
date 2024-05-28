@@ -1,0 +1,15 @@
+@BASE_URL = https://game.metalist.io/api
+
+### 获取卡牌列表
+POST {{BASE_URL}}/marketQuery/queryMarketSecondary
+Content-Type: application/json
+Client-App-Id: tbodfpihnlvhcaae
+
+{
+  "chainNftId": 12,
+  "discreteList": [],
+  "continuityList": [],
+  "pageNumber": 1,
+  "pageSize": 20,
+  "sortType": 0
+}
