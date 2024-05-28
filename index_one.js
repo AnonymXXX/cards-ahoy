@@ -125,6 +125,7 @@ async function fetchCardSaleList ({ secondaryName, secondaryId }) {
       allSales.push({
         image: saleDetails.baseInfo.image,
         salePrice: saleDetails.baseInfo.salePrice + ' USDT',
+        desc: saleDetails.baseInfo.desc,
         ...saleDetails.metaData
       });
     }
