@@ -55,82 +55,96 @@ async function fetchAllCards () {
   return allCards;
 }
 
-async function fetchSaleDetails (saleAggregatorNumber) {
-  const detailUrl = 'https://game.metalist.io/api/marketQuery/queryBuyNftDetail';
+function fetchSaleDetails (saleAggregatorNumber) {
+  return new Promise(async (resolve, reject) => {
+    const detailUrl = 'https://game.metalist.io/api/marketQuery/queryBuyNftDetail';
 
-  try {
-    const response = await fetch(detailUrl, {
-      method: 'POST',
-      headers: headers,
-      body: JSON.stringify({ saleAggregatorNumber })
-    });
-
-    const data = await response.json();
-
-    // Convert metaData array to object
-    if (data.data && data.data.metaData) {
-      const metaDataObject = {};
-      data.data.metaData.forEach(item => {
-        const key = item.traitType.toLowerCase();
-        metaDataObject[key] = item.value;
+    try {
+      const response = await fetch(detailUrl, {
+        method: 'POST',
+        headers: headers,
+        body: JSON.stringify({ saleAggregatorNumber })
       });
-      data.data.metaData = metaDataObject;
+
+      const data = await response.json();
+
+      // Convert metaData array to object
+      if (data.data && data.data.metaData) {
+        const metaDataObject = {};
+        data.data.metaData.forEach(item => {
+          const key = item.traitType.toLowerCase();
+          metaDataObject[key] = item.value;
+        });
+        data.data.metaData = metaDataObject;
+      }
+
+      setTimeout(() => resolve(data.data || {}), 200);
+    } catch (error) {
+      console.error(`Error fetching sale details for ${saleAggregatorNumber}: `, error.message);
+      return {};
     }
-    return data.data || {};
-  } catch (error) {
-    console.error(`Error fetching sale details for ${saleAggregatorNumber}: `, error.message);
-    return {};
-  }
+  });
 }
 
 async function fetchCardSaleList ({ secondaryName, secondaryId }) {
   const saleListUrl = `https://game.metalist.io/api/marketQuery/queryMarketHome`;
   const allSales = [];
+  const levelNums = Array(10).fill().map((_, i) => i + 1);
 
-  const payload = {
-    sortType: 4,
-    pageNumber: 1,
-    pageSize: 1,
-    firstCategoryId: 12,
-    secondCategoryId: secondaryId,
-    discreteList: [],
-    continuityList: [{
-      filterName: "Level",
-      filterId: 1,
-      start: 1,
-      end: 10,
-      stepSize: 1,
-      min: 1,
-      max: 10
-    }],
-    coinId: 1
-  };
+  for await (let level of levelNums) {
+    await new Promise(async (resolve) => {
+      const payload = {
+        sortType: 4,
+        pageNumber: 1,
+        pageSize: 1,
+        firstCategoryId: 12,
+        secondCategoryId: secondaryId,
+        discreteList: [],
+        continuityList: [{
+          filterName: "Level",
+          filterId: 1,
+          start: level,
+          end: level,
+          stepSize: 1,
+          min: 1,
+          max: 10
+        }],
+        coinId: 1
+      };
 
-  try {
-    const response = await fetch(saleListUrl, {
-      method: 'POST',
-      headers: headers,
-      body: JSON.stringify(payload)
+      try {
+        const response = await fetch(saleListUrl, {
+          method: 'POST',
+          headers: headers,
+          body: JSON.stringify(payload)
+        });
+
+        if (!response.ok) {
+          throw new Error(`HTTP error! status: ${response.status}`);
+        }
+
+        const data = await response.json();
+        const sales = data.data ? data.data.list : [];
+
+        for await (const sale of sales) {
+          const saleDetails = await fetchSaleDetails(sale.saleAggregatorNumber);
+
+          allSales.push({
+            image: saleDetails.baseInfo.image,
+            salePrice: saleDetails.baseInfo.salePrice + ' USDT',
+            desc: saleDetails.baseInfo.desc,
+            ...saleDetails.metaData
+          });
+        }
+
+        level++;
+        setTimeout(() => {
+          resolve();
+        }, 200);
+      } catch (error) {
+        console.error(`Error fetching sale list for card ${secondaryName}: `, error.message);
+      }
     });
-
-    if (!response.ok) {
-      throw new Error(`HTTP error! status: ${response.status}`);
-    }
-
-    const data = await response.json();
-    const sales = data.data ? data.data.list : [];
-
-    for (const sale of sales) {
-      const saleDetails = await fetchSaleDetails(sale.saleAggregatorNumber);
-      allSales.push({
-        image: saleDetails.baseInfo.image,
-        salePrice: saleDetails.baseInfo.salePrice + ' USDT',
-        desc: saleDetails.baseInfo.desc,
-        ...saleDetails.metaData
-      });
-    }
-  } catch (error) {
-    console.error(`Error fetching sale list for card ${secondaryName}: `, error.message);
   }
 
   return allSales;
