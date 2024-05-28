@@ -149,15 +149,6 @@ async function fetchCardSaleList ({ secondaryName, secondaryId }) {
 }
 
 fetchAllCards().then(async cards => {
-  // console.log('Fetched cards:', cards);
-  // fs.writeFile('cards.json', JSON.stringify(cards, null, 2), (err) => {
-  //   if (err) {
-  //     console.error('Error writing to cards.json:', err);
-  //   } else {
-  //     console.log('Successfully wrote to cards.json');
-  //   }
-  // });
-
   for (const card of cards) {
     const saleList = await fetchCardSaleList(card);
     let fileName = `sale_list_${card.secondaryName.replace(/[^a-z0-9]/gi, '_').toLowerCase()}.json`;
