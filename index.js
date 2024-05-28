@@ -160,7 +160,10 @@ fetchAllCards().then(async cards => {
 
   for (const card of cards) {
     const saleList = await fetchCardSaleList(card);
-    const fileName = `sale_list_${card.secondaryName.replace(/[^a-z0-9]/gi, '_').toLowerCase()}.json`;
+    let fileName = `sale_list_${card.secondaryName.replace(/[^a-z0-9]/gi, '_').toLowerCase()}.json`;
+    if (card.image && /_g\.\w+$/.test(card.image)) {
+      fileName = fileName.replace('.json', '_gold.json');
+    }
     fs.writeFile(fileName, JSON.stringify(saleList, null, 2), (err) => {
       if (err) {
         console.error(`Error writing to ${fileName}:`, err);
