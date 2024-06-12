@@ -1,0 +1,19 @@
+[
+  {
+    "image": "https://lb2nastorage-hk-cdn-endpoint.azureedge.net/nft-image/bin/nft/ol/20091_g.png",
+    "salePrice": "28.5 USDT",
+    "desc": "Gain Armor → Gain +4 Power. ",
+    "name": "Thunder Dragon(Gold)",
+    "type": "Members",
+    "faction": "Dragon",
+    "rarity": "Legendary",
+    "cost": "6",
+    "level": "1",
+    "exp": "1",
+    "foil": "Gold",
+    "attack": "14",
+    "armor": "0",
+    "honor points": "5000",
+    "source": "Ladder Chest"
+  }
+]

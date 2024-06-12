@@ -1,0 +1,19 @@
+[
+  {
+    "image": "https://lb2nastorage-hk-cdn-endpoint.azureedge.net/nft-image/bin/nft/ol/20101_g.png",
+    "salePrice": "88.888 USDT",
+    "desc": "Lose Armor → Gain Power equal to the lost Armor.",
+    "name": "Radiant Dragon(Gold)",
+    "type": "Members",
+    "faction": "Dragon",
+    "rarity": "Legendary",
+    "cost": "7",
+    "level": "2",
+    "exp": "2",
+    "foil": "Gold",
+    "attack": "11",
+    "armor": "11",
+    "honor points": "10000",
+    "source": "Alchemy"
+  }
+]

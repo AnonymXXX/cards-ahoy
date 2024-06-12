@@ -2,5 +2,8 @@
   "name": "cards-ahoy-info",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "one": "node index_one.js"
+  }
 }

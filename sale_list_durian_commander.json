@@ -1,0 +1,19 @@
+[
+  {
+    "image": "https://lb2nastorage-hk-cdn-endpoint.azureedge.net/nft-image/bin/nft/ol/20069.png",
+    "salePrice": "63 USDT",
+    "desc": "Hurt → summon 2 <Durian Soldier> with the same level as this card at the end of enemy team.",
+    "name": "Durian Commander",
+    "type": "Members",
+    "faction": "Plant",
+    "rarity": "Legendary",
+    "cost": "6",
+    "level": "1",
+    "exp": "1",
+    "foil": "Regular",
+    "attack": "7",
+    "armor": "12",
+    "honor points": "500",
+    "source": "Alchemy"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "image": "https://lb2nastorage-hk-cdn-endpoint.azureedge.net/nft-image/bin/nft/ol/20010_g.png",
+    "salePrice": "2.8 USDT",
+    "desc": "After attack → give +5 to 7 Armor to the friendly member with the highest Armor.",
+    "name": "Angry Bull(Gold)",
+    "type": "Members",
+    "faction": "Animal",
+    "rarity": "Epic",
+    "cost": "6",
+    "level": "1",
+    "exp": "1",
+    "foil": "Gold",
+    "attack": "11",
+    "armor": "0",
+    "honor points": "1000",
+    "source": "Ahoy Box"
+  },
+  {
+    "image": "https://lb2nastorage-hk-cdn-endpoint.azureedge.net/nft-image/bin/nft/ol/20010_g.png",
+    "salePrice": "70 USDT",
+    "desc": "After attack → give +11 to 13 Armor to the friendly member with the highest Armor.",
+    "name": "Angry Bull(Gold)",
+    "type": "Members",
+    "faction": "Animal",
+    "rarity": "Epic",
+    "cost": "6",
+    "level": "8",
+    "exp": "25",
+    "foil": "Gold",
+    "attack": "25",
+    "armor": "0",
+    "honor points": "25000",
+    "source": "Ahoy Box"
+  }
+]

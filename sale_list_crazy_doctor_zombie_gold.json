@@ -1,0 +1,36 @@
+[
+  {
+    "image": "https://lb2nastorage-hk-cdn-endpoint.azureedge.net/nft-image/bin/nft/ol/20046_g.png",
+    "salePrice": "149 USDT",
+    "desc": "Friendly Zombie members summoned → gain +2 Power.",
+    "name": "Crazy Doctor Zombie(Gold)",
+    "type": "Members",
+    "faction": "Zombie",
+    "rarity": "Legendary",
+    "cost": "7",
+    "level": "1",
+    "exp": "1",
+    "foil": "Gold",
+    "attack": "15",
+    "armor": "0",
+    "honor points": "5000",
+    "source": "Alchemy"
+  },
+  {
+    "image": "https://lb2nastorage-hk-cdn-endpoint.azureedge.net/nft-image/bin/nft/ol/20046_g.png",
+    "salePrice": "447 USDT",
+    "desc": "Friendly Zombie members summoned → gain +3 Power.",
+    "name": "Crazy Doctor Zombie(Gold)",
+    "type": "Members",
+    "faction": "Zombie",
+    "rarity": "Legendary",
+    "cost": "7",
+    "level": "3",
+    "exp": "3",
+    "foil": "Gold",
+    "attack": "19",
+    "armor": "0",
+    "honor points": "15000",
+    "source": "Alchemy"
+  }
+]

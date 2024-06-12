@@ -1,0 +1,36 @@
+[
+  {
+    "image": "https://lb2nastorage-hk-cdn-endpoint.azureedge.net/nft-image/bin/nft/ol/20085_g.png",
+    "salePrice": "1.5 USDT",
+    "desc": "None",
+    "name": "Sturdy Bot(Gold)",
+    "type": "Members",
+    "faction": "Mech",
+    "rarity": "Common",
+    "cost": "1",
+    "level": "1",
+    "exp": "3",
+    "foil": "Gold",
+    "attack": "4",
+    "armor": "0",
+    "honor points": "150",
+    "source": "All"
+  },
+  {
+    "image": "https://lb2nastorage-hk-cdn-endpoint.azureedge.net/nft-image/bin/nft/ol/20085_g.png",
+    "salePrice": "0.29 USDT",
+    "desc": "None",
+    "name": "Sturdy Bot(Gold)",
+    "type": "Members",
+    "faction": "Mech",
+    "rarity": "Common",
+    "cost": "1",
+    "level": "2",
+    "exp": "5",
+    "foil": "Gold",
+    "attack": "4",
+    "armor": "1",
+    "honor points": "250",
+    "source": "All"
+  }
+]

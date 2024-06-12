@@ -1,0 +1,19 @@
+[
+  {
+    "image": "https://lb2nastorage-hk-cdn-endpoint.azureedge.net/nft-image/bin/nft/ol/20094_g.png",
+    "salePrice": "38.88 USDT",
+    "desc": "Hurt → Give +3 Armor to the friendly Dragon member with the highest Power.",
+    "name": "Ocean Dragon(Gold)",
+    "type": "Members",
+    "faction": "Dragon",
+    "rarity": "Legendary",
+    "cost": "5",
+    "level": "1",
+    "exp": "1",
+    "foil": "Gold",
+    "attack": "6",
+    "armor": "14",
+    "honor points": "5000",
+    "source": "Ladder Chest"
+  }
+]

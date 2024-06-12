@@ -1,0 +1,19 @@
+[
+  {
+    "image": "https://lb2nastorage-hk-cdn-endpoint.azureedge.net/nft-image/bin/nft/ol/20096.png",
+    "salePrice": "1.85 USDT",
+    "desc": "Start of battle → Give +1 Power and +2 Armor to adjacent friendly Dragon members.",
+    "name": "Rock Dragon",
+    "type": "Members",
+    "faction": "Dragon",
+    "rarity": "Epic",
+    "cost": "4",
+    "level": "1",
+    "exp": "1",
+    "foil": "Regular",
+    "attack": "9",
+    "armor": "0",
+    "honor points": "100",
+    "source": "Alchemy"
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "image": "https://lb2nastorage-hk-cdn-endpoint.azureedge.net/nft-image/bin/nft/ol/20026_g.png",
+    "salePrice": "29.8 USDT",
+    "desc": "Before attack → Swap Power and Armor, then gain +2 Power.",
+    "name": "Cunning Fox(Gold)",
+    "type": "Members",
+    "faction": "Animal",
+    "rarity": "Epic",
+    "cost": "4",
+    "level": "1",
+    "exp": "1",
+    "foil": "Gold",
+    "attack": "3",
+    "armor": "12",
+    "honor points": "1000",
+    "source": "Ladder Chest"
+  }
+]

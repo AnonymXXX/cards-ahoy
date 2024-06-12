@@ -1,0 +1,36 @@
+[
+  {
+    "image": "https://lb2nastorage-hk-cdn-endpoint.azureedge.net/nft-image/bin/nft/ol/20064_g.png",
+    "salePrice": "2.6 USDT",
+    "desc": "Friendly Plant members hurt → deal 3 to 5 damage to an random enemy. <triggered 3 time(s)>",
+    "name": "Cabbage(Gold)",
+    "type": "Members",
+    "faction": "Plant",
+    "rarity": "Epic",
+    "cost": "7",
+    "level": "1",
+    "exp": "1",
+    "foil": "Gold",
+    "attack": "13",
+    "armor": "0",
+    "honor points": "1000",
+    "source": "Ladder Chest"
+  },
+  {
+    "image": "https://lb2nastorage-hk-cdn-endpoint.azureedge.net/nft-image/bin/nft/ol/20064_g.png",
+    "salePrice": "99.95 USDT",
+    "desc": "Friendly Plant members hurt → deal 6 to 8 damage to an random enemy. <triggered 3 time(s)>",
+    "name": "Cabbage(Gold)",
+    "type": "Members",
+    "faction": "Plant",
+    "rarity": "Epic",
+    "cost": "7",
+    "level": "8",
+    "exp": "25",
+    "foil": "Gold",
+    "attack": "27",
+    "armor": "0",
+    "honor points": "25000",
+    "source": "Ladder Chest"
+  }
+]

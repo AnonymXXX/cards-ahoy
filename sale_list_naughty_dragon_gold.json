@@ -1,0 +1,36 @@
+[
+  {
+    "image": "https://lb2nastorage-hk-cdn-endpoint.azureedge.net/nft-image/bin/nft/ol/10017_g.png",
+    "salePrice": "0.052 USDT",
+    "desc": "Start of battle → all friendly members gain +1 Power.",
+    "name": "Naughty Dragon(Gold)",
+    "type": "Leaders",
+    "faction": "Dragon",
+    "rarity": "Common",
+    "cost": "0",
+    "level": "1",
+    "exp": "1",
+    "foil": "Gold",
+    "attack": "0",
+    "armor": "0",
+    "honor points": "50",
+    "source": "All"
+  },
+  {
+    "image": "https://lb2nastorage-hk-cdn-endpoint.azureedge.net/nft-image/bin/nft/ol/10017_g.png",
+    "salePrice": "0.531 USDT",
+    "desc": "Start of battle → all friendly members gain +1 Power.",
+    "name": "Naughty Dragon(Gold)",
+    "type": "Leaders",
+    "faction": "Dragon",
+    "rarity": "Common",
+    "cost": "0",
+    "level": "3",
+    "exp": "9",
+    "foil": "Gold",
+    "attack": "0",
+    "armor": "0",
+    "honor points": "450",
+    "source": "All"
+  }
+]

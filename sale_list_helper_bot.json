@@ -1,0 +1,36 @@
+[
+  {
+    "image": "https://lb2nastorage-hk-cdn-endpoint.azureedge.net/nft-image/bin/nft/ol/20097.png",
+    "salePrice": "0.015 USDT",
+    "desc": "Knocked out → Summon 1 <Avenger D1> with the same level as this card at the end of the team.",
+    "name": "Helper Bot",
+    "type": "Members",
+    "faction": "Mech",
+    "rarity": "Rare",
+    "cost": "3",
+    "level": "1",
+    "exp": "1",
+    "foil": "Regular",
+    "attack": "6",
+    "armor": "0",
+    "honor points": "20",
+    "source": "All"
+  },
+  {
+    "image": "https://lb2nastorage-hk-cdn-endpoint.azureedge.net/nft-image/bin/nft/ol/20097.png",
+    "salePrice": "3 USDT",
+    "desc": "Knocked out → Summon 1 <Avenger D1> with the same level as this card at the end of the team.",
+    "name": "Helper Bot",
+    "type": "Members",
+    "faction": "Mech",
+    "rarity": "Rare",
+    "cost": "3",
+    "level": "3",
+    "exp": "10",
+    "foil": "Regular",
+    "attack": "8",
+    "armor": "0",
+    "honor points": "200",
+    "source": "All"
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "image": "https://lb2nastorage-hk-cdn-endpoint.azureedge.net/nft-image/bin/nft/ol/20046.png",
+    "salePrice": "140 USDT",
+    "desc": "Friendly Zombie members summoned → gain +2 Power.",
+    "name": "Crazy Doctor Zombie",
+    "type": "Members",
+    "faction": "Zombie",
+    "rarity": "Legendary",
+    "cost": "7",
+    "level": "1",
+    "exp": "1",
+    "foil": "Regular",
+    "attack": "15",
+    "armor": "0",
+    "honor points": "500",
+    "source": "Alchemy"
+  }
+]

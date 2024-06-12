@@ -1,0 +1,19 @@
+[
+  {
+    "image": "https://lb2nastorage-hk-cdn-endpoint.azureedge.net/nft-image/bin/nft/ol/20156.png",
+    "salePrice": "4.6 USDT",
+    "desc": "Start of battle → Fuse with <Rocket>, and enable the target to use its skill an additional 1 times.",
+    "name": "Spaceship",
+    "type": "Members",
+    "faction": "Neutral",
+    "rarity": "Epic",
+    "cost": "3",
+    "level": "1",
+    "exp": "1",
+    "foil": "Regular",
+    "attack": "5",
+    "armor": "2",
+    "honor points": "100",
+    "source": "Reward"
+  }
+]

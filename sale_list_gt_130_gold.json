@@ -1,0 +1,19 @@
+[
+  {
+    "image": "https://lb2nastorage-hk-cdn-endpoint.azureedge.net/nft-image/bin/nft/ol/20072_g.png",
+    "salePrice": "199 USDT",
+    "desc": "Friendly Mech members knocked out → gain <Energy Shield>, if it already has <Energy Shield>, gain +3 Power.",
+    "name": "GT 130(Gold)",
+    "type": "Members",
+    "faction": "Mech",
+    "rarity": "Legendary",
+    "cost": "7",
+    "level": "1",
+    "exp": "1",
+    "foil": "Gold",
+    "attack": "10",
+    "armor": "0",
+    "honor points": "5000",
+    "source": "Alchemy"
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "image": "https://lb2nastorage-hk-cdn-endpoint.azureedge.net/nft-image/bin/nft/ol/20084_g.png",
+    "salePrice": "19.99 USDT",
+    "desc": "Friendly members gain <Energy Shield> → Deal 2 to 4 damage to the first and last enemy member.",
+    "name": "Deterrent Bot(Gold)",
+    "type": "Members",
+    "faction": "Mech",
+    "rarity": "Legendary",
+    "cost": "5",
+    "level": "1",
+    "exp": "1",
+    "foil": "Gold",
+    "attack": "4",
+    "armor": "10",
+    "honor points": "5000",
+    "source": "Ahoy Box"
+  }
+]

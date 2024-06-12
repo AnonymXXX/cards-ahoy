@@ -1,0 +1,36 @@
+[
+  {
+    "image": "https://lb2nastorage-hk-cdn-endpoint.azureedge.net/nft-image/bin/nft/ol/20076.png",
+    "salePrice": "20 USDT",
+    "desc": "Knock out an enemy and survive → Gain <Energy Shield>.",
+    "name": "Charge Bot",
+    "type": "Members",
+    "faction": "Mech",
+    "rarity": "Legendary",
+    "cost": "6",
+    "level": "1",
+    "exp": "1",
+    "foil": "Regular",
+    "attack": "11",
+    "armor": "0",
+    "honor points": "500",
+    "source": "Alchemy"
+  },
+  {
+    "image": "https://lb2nastorage-hk-cdn-endpoint.azureedge.net/nft-image/bin/nft/ol/20076.png",
+    "salePrice": "210 USDT",
+    "desc": "Knock out an enemy and survive → Gain <Energy Shield>.",
+    "name": "Charge Bot",
+    "type": "Members",
+    "faction": "Mech",
+    "rarity": "Legendary",
+    "cost": "6",
+    "level": "4",
+    "exp": "6",
+    "foil": "Regular",
+    "attack": "17",
+    "armor": "0",
+    "honor points": "3000",
+    "source": "Alchemy"
+  }
+]

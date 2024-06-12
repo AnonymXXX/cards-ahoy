@@ -1,0 +1,36 @@
+[
+  {
+    "image": "https://lb2nastorage-hk-cdn-endpoint.azureedge.net/nft-image/bin/nft/ol/20037_g.png",
+    "salePrice": "889 USDT",
+    "desc": "Start of battle → Give +4 Power to friendly <Durian Commander>.",
+    "name": "Durian Agent(Gold)",
+    "type": "Members",
+    "faction": "Plant",
+    "rarity": "Epic",
+    "cost": "3",
+    "level": "1",
+    "exp": "1",
+    "foil": "Gold",
+    "attack": "8",
+    "armor": "0",
+    "honor points": "1000",
+    "source": "Alchemy"
+  },
+  {
+    "image": "https://lb2nastorage-hk-cdn-endpoint.azureedge.net/nft-image/bin/nft/ol/20037_g.png",
+    "salePrice": "22 USDT",
+    "desc": "Start of battle → Give +5 Power to friendly <Durian Commander>.",
+    "name": "Durian Agent(Gold)",
+    "type": "Members",
+    "faction": "Plant",
+    "rarity": "Epic",
+    "cost": "3",
+    "level": "3",
+    "exp": "4",
+    "foil": "Gold",
+    "attack": "10",
+    "armor": "0",
+    "honor points": "4000",
+    "source": "Alchemy"
+  }
+]

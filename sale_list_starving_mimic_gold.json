@@ -1,0 +1,53 @@
+[
+  {
+    "image": "https://lb2nastorage-hk-cdn-endpoint.azureedge.net/nft-image/bin/nft/ol/20015_g.png",
+    "salePrice": "1.19 USDT",
+    "desc": "Knocked out → summon 2 <Frying Pan> with the same level as this card at the end of the team.",
+    "name": "Starving Mimic(Gold)",
+    "type": "Members",
+    "faction": "Neutral",
+    "rarity": "Epic",
+    "cost": "5",
+    "level": "1",
+    "exp": "1",
+    "foil": "Gold",
+    "attack": "2",
+    "armor": "0",
+    "honor points": "1000",
+    "source": "Ahoy Box"
+  },
+  {
+    "image": "https://lb2nastorage-hk-cdn-endpoint.azureedge.net/nft-image/bin/nft/ol/20015_g.png",
+    "salePrice": "3 USDT",
+    "desc": "Knocked out → summon 2 <Frying Pan> with the same level as this card at the end of the team.",
+    "name": "Starving Mimic(Gold)",
+    "type": "Members",
+    "faction": "Neutral",
+    "rarity": "Epic",
+    "cost": "5",
+    "level": "2",
+    "exp": "2",
+    "foil": "Gold",
+    "attack": "2",
+    "armor": "0",
+    "honor points": "2000",
+    "source": "Ahoy Box"
+  },
+  {
+    "image": "https://lb2nastorage-hk-cdn-endpoint.azureedge.net/nft-image/bin/nft/ol/20015_g.png",
+    "salePrice": "4.76 USDT",
+    "desc": "Knocked out → summon 2 <Frying Pan> with the same level as this card at the end of the team.",
+    "name": "Starving Mimic(Gold)",
+    "type": "Members",
+    "faction": "Neutral",
+    "rarity": "Epic",
+    "cost": "5",
+    "level": "3",
+    "exp": "4",
+    "foil": "Gold",
+    "attack": "2",
+    "armor": "0",
+    "honor points": "4000",
+    "source": "Ahoy Box"
+  }
+]

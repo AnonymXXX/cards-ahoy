@@ -1,0 +1,19 @@
+[
+  {
+    "image": "https://lb2nastorage-hk-cdn-endpoint.azureedge.net/nft-image/bin/nft/ol/20095_g.png",
+    "salePrice": "3.47 USDT",
+    "desc": "Knocked out → Give +1 to 3 Armor to friendly Dragon members.",
+    "name": "Crystal Dragon(Gold)",
+    "type": "Members",
+    "faction": "Dragon",
+    "rarity": "Epic",
+    "cost": "3",
+    "level": "1",
+    "exp": "1",
+    "foil": "Gold",
+    "attack": "6",
+    "armor": "0",
+    "honor points": "1000",
+    "source": "Ahoy Box"
+  }
+]

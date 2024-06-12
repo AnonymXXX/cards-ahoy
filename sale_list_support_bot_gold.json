@@ -1,0 +1,36 @@
+[
+  {
+    "image": "https://lb2nastorage-hk-cdn-endpoint.azureedge.net/nft-image/bin/nft/ol/20073_g.png",
+    "salePrice": "2 USDT",
+    "desc": "Hurt → give the nearest member behind <Energy Shield>.",
+    "name": "Support Bot(Gold)",
+    "type": "Members",
+    "faction": "Mech",
+    "rarity": "Epic",
+    "cost": "4",
+    "level": "1",
+    "exp": "1",
+    "foil": "Gold",
+    "attack": "2",
+    "armor": "10",
+    "honor points": "1000",
+    "source": "Ahoy Box"
+  },
+  {
+    "image": "https://lb2nastorage-hk-cdn-endpoint.azureedge.net/nft-image/bin/nft/ol/20073_g.png",
+    "salePrice": "12 USDT",
+    "desc": "Hurt → give the nearest member behind <Energy Shield>.",
+    "name": "Support Bot(Gold)",
+    "type": "Members",
+    "faction": "Mech",
+    "rarity": "Epic",
+    "cost": "4",
+    "level": "3",
+    "exp": "4",
+    "foil": "Gold",
+    "attack": "2",
+    "armor": "12",
+    "honor points": "4000",
+    "source": "Ahoy Box"
+  }
+]

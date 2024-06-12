@@ -1,0 +1,19 @@
+[
+  {
+    "image": "https://lb2nastorage-hk-cdn-endpoint.azureedge.net/nft-image/bin/nft/ol/10010_g.png",
+    "salePrice": "15 USDT",
+    "desc": "Friendly Dragon members gain Armor → the enemy member with the highest Power reduces 3 Power. <triggered 4 time(s)>",
+    "name": "Deception Dragon(Gold)",
+    "type": "Leaders",
+    "faction": "Dragon",
+    "rarity": "Epic",
+    "cost": "2",
+    "level": "1",
+    "exp": "1",
+    "foil": "Gold",
+    "attack": "0",
+    "armor": "0",
+    "honor points": "1000",
+    "source": "Ahoy Box"
+  }
+]

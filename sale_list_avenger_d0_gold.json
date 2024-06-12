@@ -1,0 +1,19 @@
+[
+  {
+    "image": "https://lb2nastorage-hk-cdn-endpoint.azureedge.net/nft-image/bin/nft/ol/20074_g.png",
+    "salePrice": "15 USDT",
+    "desc": "Friendly Mech members knocked out → Summon 1 <Avenger D1> with the same level as this card at the end of the team. <triggered 3 time(s)>",
+    "name": "Avenger D0(Gold)",
+    "type": "Members",
+    "faction": "Mech",
+    "rarity": "Epic",
+    "cost": "6",
+    "level": "1",
+    "exp": "1",
+    "foil": "Gold",
+    "attack": "13",
+    "armor": "0",
+    "honor points": "1000",
+    "source": "Alchemy"
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "image": "https://lb2nastorage-hk-cdn-endpoint.azureedge.net/nft-image/bin/nft/ol/20121.png",
+    "salePrice": "666 USDT",
+    "desc": "Reduce damage taken by 6. <triggered 8 time(s)>",
+    "name": "SHIBA INU",
+    "type": "Members",
+    "faction": "Animal",
+    "rarity": "Mythic",
+    "cost": "6",
+    "level": "1",
+    "exp": "1",
+    "foil": "Regular",
+    "attack": "18",
+    "armor": "0",
+    "honor points": "60",
+    "source": "Mythic Box"
+  }
+]

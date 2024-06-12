@@ -1,0 +1,19 @@
+[
+  {
+    "image": "https://lb2nastorage-hk-cdn-endpoint.azureedge.net/nft-image/bin/nft/ol/20090_g.png",
+    "salePrice": "1.4 USDT",
+    "desc": "Start of battle → Give +4 Power to the last friendly member.",
+    "name": "Steel Dragon(Gold)",
+    "type": "Members",
+    "faction": "Dragon",
+    "rarity": "Rare",
+    "cost": "4",
+    "level": "1",
+    "exp": "1",
+    "foil": "Gold",
+    "attack": "7",
+    "armor": "0",
+    "honor points": "200",
+    "source": "All"
+  }
+]

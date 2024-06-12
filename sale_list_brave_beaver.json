@@ -1,0 +1,53 @@
+[
+  {
+    "image": "https://lb2nastorage-hk-cdn-endpoint.azureedge.net/nft-image/bin/nft/ol/20060.png",
+    "salePrice": "0.013 USDT",
+    "desc": "None",
+    "name": "Brave Beaver",
+    "type": "Members",
+    "faction": "Animal",
+    "rarity": "Rare",
+    "cost": "3",
+    "level": "1",
+    "exp": "1",
+    "foil": "Regular",
+    "attack": "9",
+    "armor": "0",
+    "honor points": "20",
+    "source": "All"
+  },
+  {
+    "image": "https://lb2nastorage-hk-cdn-endpoint.azureedge.net/nft-image/bin/nft/ol/20060.png",
+    "salePrice": "0.132 USDT",
+    "desc": "None",
+    "name": "Brave Beaver",
+    "type": "Members",
+    "faction": "Animal",
+    "rarity": "Rare",
+    "cost": "3",
+    "level": "2",
+    "exp": "6",
+    "foil": "Regular",
+    "attack": "10",
+    "armor": "1",
+    "honor points": "120",
+    "source": "All"
+  },
+  {
+    "image": "https://lb2nastorage-hk-cdn-endpoint.azureedge.net/nft-image/bin/nft/ol/20060.png",
+    "salePrice": "1 USDT",
+    "desc": "None",
+    "name": "Brave Beaver",
+    "type": "Members",
+    "faction": "Animal",
+    "rarity": "Rare",
+    "cost": "3",
+    "level": "4",
+    "exp": "20",
+    "foil": "Regular",
+    "attack": "12",
+    "armor": "3",
+    "honor points": "400",
+    "source": "All"
+  }
+]

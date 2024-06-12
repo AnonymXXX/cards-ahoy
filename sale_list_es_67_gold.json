@@ -1,0 +1,36 @@
+[
+  {
+    "image": "https://lb2nastorage-hk-cdn-endpoint.azureedge.net/nft-image/bin/nft/ol/20079_g.png",
+    "salePrice": "0.98 USDT",
+    "desc": "Knocked out → Give <Energy Shield> to 1 friendly Mech member(s) with the same level or lower.",
+    "name": "ES-67(Gold)",
+    "type": "Members",
+    "faction": "Mech",
+    "rarity": "Rare",
+    "cost": "4",
+    "level": "1",
+    "exp": "1",
+    "foil": "Gold",
+    "attack": "5",
+    "armor": "0",
+    "honor points": "200",
+    "source": "All"
+  },
+  {
+    "image": "https://lb2nastorage-hk-cdn-endpoint.azureedge.net/nft-image/bin/nft/ol/20079_g.png",
+    "salePrice": "15 USDT",
+    "desc": "Knocked out → Give <Energy Shield> to 1 friendly Mech member(s) with the same level or lower.",
+    "name": "ES-67(Gold)",
+    "type": "Members",
+    "faction": "Mech",
+    "rarity": "Rare",
+    "cost": "4",
+    "level": "5",
+    "exp": "15",
+    "foil": "Gold",
+    "attack": "9",
+    "armor": "0",
+    "honor points": "3000",
+    "source": "All"
+  }
+]

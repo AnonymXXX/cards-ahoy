@@ -1,0 +1,36 @@
+[
+  {
+    "image": "https://lb2nastorage-hk-cdn-endpoint.azureedge.net/nft-image/bin/nft/ol/20068_g.png",
+    "salePrice": "58 USDT",
+    "desc": "Attacked and survive → deal 1 damage to the nearest member behind, then give the member +3 Power.",
+    "name": "Garlic(Gold)",
+    "type": "Members",
+    "faction": "Plant",
+    "rarity": "Legendary",
+    "cost": "7",
+    "level": "1",
+    "exp": "1",
+    "foil": "Gold",
+    "attack": "10",
+    "armor": "10",
+    "honor points": "5000",
+    "source": "Ladder Chest"
+  },
+  {
+    "image": "https://lb2nastorage-hk-cdn-endpoint.azureedge.net/nft-image/bin/nft/ol/20068_g.png",
+    "salePrice": "195 USDT",
+    "desc": "Attacked and survive → deal 1 damage to the nearest member behind, then give the member +4 Power.",
+    "name": "Garlic(Gold)",
+    "type": "Members",
+    "faction": "Plant",
+    "rarity": "Legendary",
+    "cost": "7",
+    "level": "3",
+    "exp": "3",
+    "foil": "Gold",
+    "attack": "14",
+    "armor": "12",
+    "honor points": "15000",
+    "source": "Ladder Chest"
+  }
+]

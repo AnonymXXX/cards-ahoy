@@ -1,0 +1,53 @@
+[
+  {
+    "image": "https://lb2nastorage-hk-cdn-endpoint.azureedge.net/nft-image/bin/nft/ol/20027.png",
+    "salePrice": "1.6 USDT",
+    "desc": "Before attack → give the nearest member behind +3 Power.",
+    "name": "Snake",
+    "type": "Members",
+    "faction": "Animal",
+    "rarity": "Epic",
+    "cost": "5",
+    "level": "1",
+    "exp": "1",
+    "foil": "Regular",
+    "attack": "10",
+    "armor": "0",
+    "honor points": "100",
+    "source": "Ladder Chest"
+  },
+  {
+    "image": "https://lb2nastorage-hk-cdn-endpoint.azureedge.net/nft-image/bin/nft/ol/20027.png",
+    "salePrice": "10.8 USDT",
+    "desc": "Before attack → give the nearest member behind +4 Power.",
+    "name": "Snake",
+    "type": "Members",
+    "faction": "Animal",
+    "rarity": "Epic",
+    "cost": "5",
+    "level": "3",
+    "exp": "6",
+    "foil": "Regular",
+    "attack": "12",
+    "armor": "0",
+    "honor points": "600",
+    "source": "Ladder Chest"
+  },
+  {
+    "image": "https://lb2nastorage-hk-cdn-endpoint.azureedge.net/nft-image/bin/nft/ol/20027.png",
+    "salePrice": "46 USDT",
+    "desc": "Before attack → give the nearest member behind +6 Power.",
+    "name": "Snake",
+    "type": "Members",
+    "faction": "Animal",
+    "rarity": "Epic",
+    "cost": "5",
+    "level": "8",
+    "exp": "40",
+    "foil": "Regular",
+    "attack": "17",
+    "armor": "0",
+    "honor points": "4000",
+    "source": "Ladder Chest"
+  }
+]

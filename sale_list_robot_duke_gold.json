@@ -1,0 +1,53 @@
+[
+  {
+    "image": "https://lb2nastorage-hk-cdn-endpoint.azureedge.net/nft-image/bin/nft/ol/10007_g.png",
+    "salePrice": "0.888 USDT",
+    "desc": "Friendly Mech members lose <Energy Shield> → deal 3 damage to the enemy member with the highest Power. <triggered 4 time(s)>",
+    "name": "Robot Duke(Gold)",
+    "type": "Leaders",
+    "faction": "Mech",
+    "rarity": "Rare",
+    "cost": "0",
+    "level": "1",
+    "exp": "1",
+    "foil": "Gold",
+    "attack": "0",
+    "armor": "0",
+    "honor points": "200",
+    "source": "All"
+  },
+  {
+    "image": "https://lb2nastorage-hk-cdn-endpoint.azureedge.net/nft-image/bin/nft/ol/10007_g.png",
+    "salePrice": "11.893 USDT",
+    "desc": "Friendly Mech members lose <Energy Shield> → deal 4 damage to the enemy member with the highest Power. <triggered 4 time(s)>",
+    "name": "Robot Duke(Gold)",
+    "type": "Leaders",
+    "faction": "Mech",
+    "rarity": "Rare",
+    "cost": "0",
+    "level": "3",
+    "exp": "7",
+    "foil": "Gold",
+    "attack": "0",
+    "armor": "0",
+    "honor points": "1400",
+    "source": "All"
+  },
+  {
+    "image": "https://lb2nastorage-hk-cdn-endpoint.azureedge.net/nft-image/bin/nft/ol/10007_g.png",
+    "salePrice": "14 USDT",
+    "desc": "Friendly Mech members lose <Energy Shield> → deal 4 damage to the enemy member with the highest Power. <triggered 4 time(s)>",
+    "name": "Robot Duke(Gold)",
+    "type": "Leaders",
+    "faction": "Mech",
+    "rarity": "Rare",
+    "cost": "0",
+    "level": "4",
+    "exp": "10",
+    "foil": "Gold",
+    "attack": "0",
+    "armor": "0",
+    "honor points": "2000",
+    "source": "All"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "image": "https://lb2nastorage-hk-cdn-endpoint.azureedge.net/nft-image/bin/nft/ol/20062.png",
+    "salePrice": "1 USDT",
+    "desc": "Hurt → summon a Plant member with 3 Cost.<triggered 3 time(s)>",
+    "name": "Avocado",
+    "type": "Members",
+    "faction": "Plant",
+    "rarity": "Epic",
+    "cost": "5",
+    "level": "1",
+    "exp": "1",
+    "foil": "Regular",
+    "attack": "3",
+    "armor": "8",
+    "honor points": "100",
+    "source": "Ladder Chest"
+  },
+  {
+    "image": "https://lb2nastorage-hk-cdn-endpoint.azureedge.net/nft-image/bin/nft/ol/20062.png",
+    "salePrice": "3.35 USDT",
+    "desc": "Hurt → summon a Plant member with 3 Cost.<triggered 3 time(s)>",
+    "name": "Avocado",
+    "type": "Members",
+    "faction": "Plant",
+    "rarity": "Epic",
+    "cost": "5",
+    "level": "2",
+    "exp": "3",
+    "foil": "Regular",
+    "attack": "4",
+    "armor": "8",
+    "honor points": "300",
+    "source": "Ladder Chest"
+  },
+  {
+    "image": "https://lb2nastorage-hk-cdn-endpoint.azureedge.net/nft-image/bin/nft/ol/20062.png",
+    "salePrice": "6.594 USDT",
+    "desc": "Hurt → summon a Plant member with 3 Cost.<triggered 3 time(s)>",
+    "name": "Avocado",
+    "type": "Members",
+    "faction": "Plant",
+    "rarity": "Epic",
+    "cost": "5",
+    "level": "3",
+    "exp": "6",
+    "foil": "Regular",
+    "attack": "5",
+    "armor": "8",
+    "honor points": "600",
+    "source": "Ladder Chest"
+  }
+]

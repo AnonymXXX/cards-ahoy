@@ -1,0 +1,19 @@
+[
+  {
+    "image": "https://lb2nastorage-hk-cdn-endpoint.azureedge.net/nft-image/bin/nft/ol/20118.png",
+    "salePrice": "12 USDT",
+    "desc": "An egg filled with mysterious energy. It can be used as an merge material for any card of the same rarity and foil.",
+    "name": "Epic Miracle Egg",
+    "type": "Members",
+    "faction": "Neutral",
+    "rarity": "Epic",
+    "cost": "9",
+    "level": "1",
+    "exp": "1",
+    "foil": "Regular",
+    "attack": "1",
+    "armor": "0",
+    "honor points": "100",
+    "source": "Reward"
+  }
+]

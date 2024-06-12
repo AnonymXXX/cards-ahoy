@@ -1,0 +1,19 @@
+[
+  {
+    "image": "https://lb2nastorage-hk-cdn-endpoint.azureedge.net/nft-image/bin/nft/ol/20016_g.png",
+    "salePrice": "65 USDT",
+    "desc": "Friendly <Death Whisper> members knocked out → Deal 2 to 4 damage to a random enemy.",
+    "name": "Super Zombie(Gold)",
+    "type": "Members",
+    "faction": "Zombie",
+    "rarity": "Legendary",
+    "cost": "7",
+    "level": "1",
+    "exp": "1",
+    "foil": "Gold",
+    "attack": "15",
+    "armor": "0",
+    "honor points": "5000",
+    "source": "Ladder Chest"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "image": "https://lb2nastorage-hk-cdn-endpoint.azureedge.net/nft-image/bin/nft/ol/20016.png",
+    "salePrice": "30 USDT",
+    "desc": "Friendly <Death Whisper> members knocked out → Deal 2 to 4 damage to a random enemy.",
+    "name": "Super Zombie",
+    "type": "Members",
+    "faction": "Zombie",
+    "rarity": "Legendary",
+    "cost": "7",
+    "level": "1",
+    "exp": "1",
+    "foil": "Regular",
+    "attack": "15",
+    "armor": "0",
+    "honor points": "500",
+    "source": "Ladder Chest"
+  },
+  {
+    "image": "https://lb2nastorage-hk-cdn-endpoint.azureedge.net/nft-image/bin/nft/ol/20016.png",
+    "salePrice": "216 USDT",
+    "desc": "Friendly <Death Whisper> members knocked out → Deal 4 to 6 damage to a random enemy.",
+    "name": "Super Zombie",
+    "type": "Members",
+    "faction": "Zombie",
+    "rarity": "Legendary",
+    "cost": "7",
+    "level": "5",
+    "exp": "8",
+    "foil": "Regular",
+    "attack": "23",
+    "armor": "0",
+    "honor points": "4000",
+    "source": "Ladder Chest"
+  }
+]

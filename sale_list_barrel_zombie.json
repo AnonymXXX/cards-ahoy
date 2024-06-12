@@ -1,0 +1,53 @@
+[
+  {
+    "image": "https://lb2nastorage-hk-cdn-endpoint.azureedge.net/nft-image/bin/nft/ol/20053.png",
+    "salePrice": "3.5 USDT",
+    "desc": "Hurt → Summon 1 <Common Zombie> at the end of the team.",
+    "name": "Barrel Zombie",
+    "type": "Members",
+    "faction": "Zombie",
+    "rarity": "Epic",
+    "cost": "5",
+    "level": "1",
+    "exp": "1",
+    "foil": "Regular",
+    "attack": "6",
+    "armor": "10",
+    "honor points": "100",
+    "source": "Alchemy"
+  },
+  {
+    "image": "https://lb2nastorage-hk-cdn-endpoint.azureedge.net/nft-image/bin/nft/ol/20053.png",
+    "salePrice": "12 USDT",
+    "desc": "Hurt → Summon 1 <Common Zombie> at the end of the team.",
+    "name": "Barrel Zombie",
+    "type": "Members",
+    "faction": "Zombie",
+    "rarity": "Epic",
+    "cost": "5",
+    "level": "2",
+    "exp": "3",
+    "foil": "Regular",
+    "attack": "7",
+    "armor": "11",
+    "honor points": "300",
+    "source": "Alchemy"
+  },
+  {
+    "image": "https://lb2nastorage-hk-cdn-endpoint.azureedge.net/nft-image/bin/nft/ol/20053.png",
+    "salePrice": "21.54 USDT",
+    "desc": "Hurt → Summon 1 <Common Zombie> at the end of the team.",
+    "name": "Barrel Zombie",
+    "type": "Members",
+    "faction": "Zombie",
+    "rarity": "Epic",
+    "cost": "5",
+    "level": "3",
+    "exp": "6",
+    "foil": "Regular",
+    "attack": "8",
+    "armor": "12",
+    "honor points": "600",
+    "source": "Alchemy"
+  }
+]

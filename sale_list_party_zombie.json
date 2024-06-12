@@ -1,0 +1,53 @@
+[
+  {
+    "image": "https://lb2nastorage-hk-cdn-endpoint.azureedge.net/nft-image/bin/nft/ol/20036.png",
+    "salePrice": "2.78 USDT",
+    "desc": "Knocked out → Deal 1 to 3 damage to the enemy member with the highest Power. <triggered 3 time(s)>",
+    "name": "Party Zombie",
+    "type": "Members",
+    "faction": "Zombie",
+    "rarity": "Epic",
+    "cost": "2",
+    "level": "1",
+    "exp": "1",
+    "foil": "Regular",
+    "attack": "5",
+    "armor": "0",
+    "honor points": "100",
+    "source": "Ladder Chest"
+  },
+  {
+    "image": "https://lb2nastorage-hk-cdn-endpoint.azureedge.net/nft-image/bin/nft/ol/20036.png",
+    "salePrice": "104.13 USDT",
+    "desc": "Knocked out → Deal 1 to 4 damage to the enemy member with the highest Power. <triggered 3 time(s)>",
+    "name": "Party Zombie",
+    "type": "Members",
+    "faction": "Zombie",
+    "rarity": "Epic",
+    "cost": "2",
+    "level": "3",
+    "exp": "6",
+    "foil": "Regular",
+    "attack": "7",
+    "armor": "0",
+    "honor points": "600",
+    "source": "Ladder Chest"
+  },
+  {
+    "image": "https://lb2nastorage-hk-cdn-endpoint.azureedge.net/nft-image/bin/nft/ol/20036.png",
+    "salePrice": "40 USDT",
+    "desc": "Knocked out → Deal 2 to 4 damage to the enemy member with the highest Power. <triggered 3 time(s)>",
+    "name": "Party Zombie",
+    "type": "Members",
+    "faction": "Zombie",
+    "rarity": "Epic",
+    "cost": "2",
+    "level": "5",
+    "exp": "16",
+    "foil": "Regular",
+    "attack": "9",
+    "armor": "0",
+    "honor points": "1600",
+    "source": "Ladder Chest"
+  }
+]

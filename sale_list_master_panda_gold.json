@@ -1,0 +1,36 @@
+[
+  {
+    "image": "https://lb2nastorage-hk-cdn-endpoint.azureedge.net/nft-image/bin/nft/ol/20011_g.png",
+    "salePrice": "54 USDT",
+    "desc": "Attack and survive → Give +6 Power to the friendly member with highest Power.",
+    "name": "Master Panda(Gold)",
+    "type": "Members",
+    "faction": "Animal",
+    "rarity": "Legendary",
+    "cost": "7",
+    "level": "1",
+    "exp": "1",
+    "foil": "Gold",
+    "attack": "16",
+    "armor": "6",
+    "honor points": "5000",
+    "source": "Ladder Chest"
+  },
+  {
+    "image": "https://lb2nastorage-hk-cdn-endpoint.azureedge.net/nft-image/bin/nft/ol/20011_g.png",
+    "salePrice": "336 USDT",
+    "desc": "Attack and survive → Give +10 Power to the friendly member with highest Power.",
+    "name": "Master Panda(Gold)",
+    "type": "Members",
+    "faction": "Animal",
+    "rarity": "Legendary",
+    "cost": "7",
+    "level": "5",
+    "exp": "7",
+    "foil": "Gold",
+    "attack": "24",
+    "armor": "10",
+    "honor points": "35000",
+    "source": "Ladder Chest"
+  }
+]

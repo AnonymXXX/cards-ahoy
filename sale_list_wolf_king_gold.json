@@ -1,0 +1,19 @@
+[
+  {
+    "image": "https://lb2nastorage-hk-cdn-endpoint.azureedge.net/nft-image/bin/nft/ol/20048_g.png",
+    "salePrice": "140 USDT",
+    "desc": "Attack and survive → give +1 Power to all friendly Animal members.",
+    "name": "Wolf King(Gold)",
+    "type": "Members",
+    "faction": "Animal",
+    "rarity": "Legendary",
+    "cost": "5",
+    "level": "1",
+    "exp": "1",
+    "foil": "Gold",
+    "attack": "13",
+    "armor": "0",
+    "honor points": "5000",
+    "source": "Alchemy"
+  }
+]

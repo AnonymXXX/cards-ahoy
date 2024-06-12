@@ -1,0 +1,19 @@
+[
+  {
+    "image": "https://lb2nastorage-hk-cdn-endpoint.azureedge.net/nft-image/bin/nft/ol/10008_g.png",
+    "salePrice": "4.95 USDT",
+    "desc": "Friendly Mech members gain <Energy Shield> → give +2 to 3 Power to them. <triggered 4 time(s)>",
+    "name": "Mechanic Knight(Gold)",
+    "type": "Leaders",
+    "faction": "Mech",
+    "rarity": "Epic",
+    "cost": "2",
+    "level": "1",
+    "exp": "1",
+    "foil": "Gold",
+    "attack": "0",
+    "armor": "0",
+    "honor points": "1000",
+    "source": "Ahoy Box"
+  }
+]

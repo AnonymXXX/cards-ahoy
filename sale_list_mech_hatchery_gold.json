@@ -1,0 +1,19 @@
+[
+  {
+    "image": "https://lb2nastorage-hk-cdn-endpoint.azureedge.net/nft-image/bin/nft/ol/20081_g.png",
+    "salePrice": "2.04 USDT",
+    "desc": "Knocked out → Summon 1 <Doggy Bot> or <Kitty Bot> with the same level as this card at the end of the team, and give it <Energy Shield>. (Summon the one not in the team first)",
+    "name": "Mech Hatchery(Gold)",
+    "type": "Members",
+    "faction": "Mech",
+    "rarity": "Epic",
+    "cost": "6",
+    "level": "1",
+    "exp": "1",
+    "foil": "Gold",
+    "attack": "1",
+    "armor": "0",
+    "honor points": "1000",
+    "source": "Ladder Chest"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "image": "https://lb2nastorage-hk-cdn-endpoint.azureedge.net/nft-image/bin/nft/ol/20089_g.png",
+    "salePrice": "4 USDT",
+    "desc": "Knocked out → Summon a random 3 Cost Dragon member with the same level as this card at the end of the team.",
+    "name": "Dragon Egg(Gold)",
+    "type": "Members",
+    "faction": "Dragon",
+    "rarity": "Epic",
+    "cost": "2",
+    "level": "1",
+    "exp": "1",
+    "foil": "Gold",
+    "attack": "1",
+    "armor": "0",
+    "honor points": "1000",
+    "source": "Ahoy Box"
+  },
+  {
+    "image": "https://lb2nastorage-hk-cdn-endpoint.azureedge.net/nft-image/bin/nft/ol/20089_g.png",
+    "salePrice": "16 USDT",
+    "desc": "Knocked out → Summon a random 3 Cost Dragon member with the same level as this card at the end of the team.",
+    "name": "Dragon Egg(Gold)",
+    "type": "Members",
+    "faction": "Dragon",
+    "rarity": "Epic",
+    "cost": "2",
+    "level": "3",
+    "exp": "4",
+    "foil": "Gold",
+    "attack": "1",
+    "armor": "0",
+    "honor points": "4000",
+    "source": "Ahoy Box"
+  }
+]

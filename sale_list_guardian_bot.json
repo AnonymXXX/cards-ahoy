@@ -1,0 +1,36 @@
+[
+  {
+    "image": "https://lb2nastorage-hk-cdn-endpoint.azureedge.net/nft-image/bin/nft/ol/20077.png",
+    "salePrice": "12.5 USDT",
+    "desc": "Start of battle → Give <Energy Shield> to adjacent friendly Mech members with the same level or lower.",
+    "name": "Guardian Bot",
+    "type": "Members",
+    "faction": "Mech",
+    "rarity": "Legendary",
+    "cost": "5",
+    "level": "1",
+    "exp": "1",
+    "foil": "Regular",
+    "attack": "8",
+    "armor": "0",
+    "honor points": "500",
+    "source": "Ladder Chest"
+  },
+  {
+    "image": "https://lb2nastorage-hk-cdn-endpoint.azureedge.net/nft-image/bin/nft/ol/20077.png",
+    "salePrice": "321.3 USDT",
+    "desc": "Start of battle → Give <Energy Shield> to adjacent friendly Mech members with the same level or lower.",
+    "name": "Guardian Bot",
+    "type": "Members",
+    "faction": "Mech",
+    "rarity": "Legendary",
+    "cost": "5",
+    "level": "8",
+    "exp": "17",
+    "foil": "Regular",
+    "attack": "15",
+    "armor": "0",
+    "honor points": "8500",
+    "source": "Ladder Chest"
+  }
+]

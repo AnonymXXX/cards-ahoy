@@ -1,0 +1,53 @@
+[
+  {
+    "image": "https://lb2nastorage-hk-cdn-endpoint.azureedge.net/nft-image/bin/nft/ol/20026.png",
+    "salePrice": "1.7 USDT",
+    "desc": "Before attack → Swap Power and Armor, then gain +2 Power.",
+    "name": "Cunning Fox",
+    "type": "Members",
+    "faction": "Animal",
+    "rarity": "Epic",
+    "cost": "4",
+    "level": "1",
+    "exp": "1",
+    "foil": "Regular",
+    "attack": "3",
+    "armor": "12",
+    "honor points": "100",
+    "source": "Ladder Chest"
+  },
+  {
+    "image": "https://lb2nastorage-hk-cdn-endpoint.azureedge.net/nft-image/bin/nft/ol/20026.png",
+    "salePrice": "5.331 USDT",
+    "desc": "Before attack → Swap Power and Armor, then gain +2 Power.",
+    "name": "Cunning Fox",
+    "type": "Members",
+    "faction": "Animal",
+    "rarity": "Epic",
+    "cost": "4",
+    "level": "2",
+    "exp": "3",
+    "foil": "Regular",
+    "attack": "4",
+    "armor": "13",
+    "honor points": "300",
+    "source": "Ladder Chest"
+  },
+  {
+    "image": "https://lb2nastorage-hk-cdn-endpoint.azureedge.net/nft-image/bin/nft/ol/20026.png",
+    "salePrice": "10.674 USDT",
+    "desc": "Before attack → Swap Power and Armor, then gain +3 Power.",
+    "name": "Cunning Fox",
+    "type": "Members",
+    "faction": "Animal",
+    "rarity": "Epic",
+    "cost": "4",
+    "level": "3",
+    "exp": "6",
+    "foil": "Regular",
+    "attack": "5",
+    "armor": "14",
+    "honor points": "600",
+    "source": "Ladder Chest"
+  }
+]

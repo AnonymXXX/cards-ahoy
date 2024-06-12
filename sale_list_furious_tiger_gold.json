@@ -1,0 +1,36 @@
+[
+  {
+    "image": "https://lb2nastorage-hk-cdn-endpoint.azureedge.net/nft-image/bin/nft/ol/10004_g.png",
+    "salePrice": "7.999 USDT",
+    "desc": "Before friendly Animal members attack → give +4 Power to them. <triggered 4 time(s)>",
+    "name": "Furious Tiger(Gold)",
+    "type": "Leaders",
+    "faction": "Animal",
+    "rarity": "Epic",
+    "cost": "2",
+    "level": "1",
+    "exp": "1",
+    "foil": "Gold",
+    "attack": "0",
+    "armor": "0",
+    "honor points": "1000",
+    "source": "Ahoy Box"
+  },
+  {
+    "image": "https://lb2nastorage-hk-cdn-endpoint.azureedge.net/nft-image/bin/nft/ol/10004_g.png",
+    "salePrice": "185 USDT",
+    "desc": "Before friendly Animal members attack → give +7 Power to them. <triggered 4 time(s)>",
+    "name": "Furious Tiger(Gold)",
+    "type": "Leaders",
+    "faction": "Animal",
+    "rarity": "Epic",
+    "cost": "2",
+    "level": "8",
+    "exp": "25",
+    "foil": "Gold",
+    "attack": "0",
+    "armor": "0",
+    "honor points": "25000",
+    "source": "Ahoy Box"
+  }
+]

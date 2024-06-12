@@ -1,0 +1,36 @@
+[
+  {
+    "image": "https://lb2nastorage-hk-cdn-endpoint.azureedge.net/nft-image/bin/nft/ol/20096_g.png",
+    "salePrice": "6.88 USDT",
+    "desc": "Start of battle → Give +1 Power and +2 Armor to adjacent friendly Dragon members.",
+    "name": "Rock Dragon(Gold)",
+    "type": "Members",
+    "faction": "Dragon",
+    "rarity": "Epic",
+    "cost": "4",
+    "level": "1",
+    "exp": "1",
+    "foil": "Gold",
+    "attack": "9",
+    "armor": "0",
+    "honor points": "1000",
+    "source": "Alchemy"
+  },
+  {
+    "image": "https://lb2nastorage-hk-cdn-endpoint.azureedge.net/nft-image/bin/nft/ol/20096_g.png",
+    "salePrice": "64.68 USDT",
+    "desc": "Start of battle → Give +2 Power and +4 Armor to adjacent friendly Dragon members.",
+    "name": "Rock Dragon(Gold)",
+    "type": "Members",
+    "faction": "Dragon",
+    "rarity": "Epic",
+    "cost": "4",
+    "level": "5",
+    "exp": "11",
+    "foil": "Gold",
+    "attack": "13",
+    "armor": "4",
+    "honor points": "11000",
+    "source": "Alchemy"
+  }
+]
